@@ -11,6 +11,8 @@ module.exports = {
           "url('./src/assets/home/background-home-desktop.jpg')",
         "destination-background":
           "url('./src/assets/destination/background-destination-desktop.jpg')",
+        "crew-background":
+          "url('./src/assets/crew/background-crew-desktop.jpg')",
       },
     },
     fontFamily: {
