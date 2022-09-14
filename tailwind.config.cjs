@@ -13,6 +13,8 @@ module.exports = {
           "url('./src/assets/destination/background-destination-desktop.jpg')",
         "crew-background":
           "url('./src/assets/crew/background-crew-desktop.jpg')",
+        "techno-background":
+          "url('./src/assets/technology/background-technology-desktop.jpg')",
       },
     },
     fontFamily: {
