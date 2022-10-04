@@ -1,13 +1,11 @@
-import Navbar from "./components/Navbar"
+import Navbar from "./components/Navbar";
 
-
-const Layout = ({children}) => {
+const Layout = ({ children }) => {
   return (
-    <main className="min-h-screen">
-       <Navbar/>
-       <section>{children}</section>
+    <main className="min-h-screen ">
+      <section className="">{children}</section>
     </main>
-  )
-}
+  );
+};
 
-export default Layout
+export default Layout;
