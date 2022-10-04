@@ -8,7 +8,7 @@ const Destination = () => {
   const { name, images, description, distance, travel } = planets[planet];
 
   return (
-    <main className="bg-destination-background bg-cover bg-center min-h-screen font-bella text-slate-50 pt-44 px-4 text-sm  ">
+    <main className="bg-destination-background bg-cover bg-center min-h-screen font-bella text-slate-50 pt-44 px-4 text-sm ">
       <h1 className="max-w-7xl mx-auto pl-2   md:text-left md:text-xl lg:text-3xl font-barlow tracking-[0.1em] uppercase text-center  py-10">
         {" "}
         <span className=" text-slate-500 font-bold font-barlow">01</span> Pick

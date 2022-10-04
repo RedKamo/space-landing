@@ -9,6 +9,10 @@ module.exports = {
       backgroundImage: {
         "home-background":
           "url('./src/assets/home/background-home-desktop.jpg')",
+        "home-background-table":
+          "url('./src/assets/home/background-home-tablet.jpg')",
+        "home-background-mobile":
+          "url('./src/assets/home/background-home-mobile.jpg')",
         "destination-background":
           "url('./src/assets/destination/background-destination-desktop.jpg')",
         "crew-background":
