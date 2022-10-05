@@ -15,8 +15,16 @@ module.exports = {
           "url('./src/assets/home/background-home-mobile.jpg')",
         "destination-background":
           "url('./src/assets/destination/background-destination-desktop.jpg')",
+        "destination-background-tablet":
+          "url('./src/assets/destination/background-destination-tablet.jpg')",
+        "destination-background-mobile":
+          "url('./src/assets/destination/background-destination-mobile.jpg')",
         "crew-background":
           "url('./src/assets/crew/background-crew-desktop.jpg')",
+        "crew-background-tablet":
+          "url('./src/assets/crew/background-crew-tablet.jpg')",
+        "crew-background-mobile":
+          "url('./src/assets/crew/background-crew-mobile.jpg')",
         "techno-background":
           "url('./src/assets/technology/background-technology-desktop.jpg')",
       },
